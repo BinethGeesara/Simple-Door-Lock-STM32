@@ -38,4 +38,4 @@ Light = OFF
 Both pressed → ignored to prevent conflicting commands
 Debouncing uses HAL_GetTick() and 100ms threshold
 
-![Central Lock System](https://your-image-link.com/image.jpg)
+![Central Lock System]([https://your-image-link.com/image.jpg](https://github.com/BinethGeesara/Simple-Door-Lock-STM32/blob/0102b721df1a17994dd59f6b575486e6d443e427/IMG_4228.jpg))
