@@ -1,7 +1,7 @@
 # Simple-Door-Lock-STM32
 A simple yet robust **door lock controller** project using the **STM32 microcontroller**, **L293D motor driver**, and a **12V automotive central locking actuator**. It supports **open/close control via external buttons**, with **debounced interrupt handling** and **latched LED light control** based on the door state.
 
-![Demo Setup](https://your-image-link.com/image.jpg)
+![Central Lock System]([https://your-image-link.com/image.jpg](https://github.com/BinethGeesara/Simple-Door-Lock-STM32/blob/0102b721df1a17994dd59f6b575486e6d443e427/IMG_4228.jpg))
 
 ---
 
@@ -55,4 +55,3 @@ A simple yet robust **door lock controller** project using the **STM32 microcont
 - **Debouncing** uses `HAL_GetTick()` and a 100ms delay threshold  
 
 ---
-![Central Lock System]([https://your-image-link.com/image.jpg](https://github.com/BinethGeesara/Simple-Door-Lock-STM32/blob/0102b721df1a17994dd59f6b575486e6d443e427/IMG_4228.jpg))
